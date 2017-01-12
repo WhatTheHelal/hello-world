@@ -1,2 +1,1 @@
-# hello-world
-This is my first Repository! Yay! 
+I'm a SFDC Admin looking to learn apex
